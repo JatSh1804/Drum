@@ -1,2 +1,1 @@
-# Drum
-A website where you can practice your cords with drums.
+https://jatsh1804.github.io/Drum/
